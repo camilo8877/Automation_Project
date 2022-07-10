@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="I as user of the Utest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-09T16:10:15" hostname="LAPTOP-74ND3S29" time="21.341">
+  <properties/>
+  <testcase name="Successful user creation" classname="I as user of the Utest" time="21.341"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[jul 09, 2022 11:10:15 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 47012
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jul 09, 2022 11:10:18 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
